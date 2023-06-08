@@ -29,7 +29,7 @@ def evaluatePerformance(numTrials=100):
     '''
     
     # Load Data
-    filename = 'data/SPECTF.dat'
+    filename = '/content/drive/MyDrive/Homework 1/CIS419--Decision-Tree-Learning-Linear-Regression/data/SPECTF.dat'
     data = np.loadtxt(filename, delimiter=',')
     X = data[:, 1:]
     y = np.array([data[:, 0]]).T
