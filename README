@@ -23,12 +23,6 @@
 # be properly formatted YAML.
 #######################################################################################
 
-# Personal information
-FIRSTNAME: Matthew
-LASTNAME:  Schulman
-PENNKEY:   schmatt
-PENNID:    20628955
-
 # Which course are you enrolled in?  (enter 419 or 519)
 COURSE:  419 
 
